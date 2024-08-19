@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @eshaanmattoo
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python, Robotics and IoT, 3d modelling
-- 💞️ I’m looking to collaborate on projects that help me give some exposure
-- 📫 How to reach me eshaanmattoo@gmail.cim
+ reach me at eshaanmattoo@gmail.com
 
 <!---
 eshaanmattoo/eshaanmattoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
