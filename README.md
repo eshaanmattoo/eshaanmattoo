@@ -1,4 +1,4 @@
- reach me at eshaanmattoo@gmail.com
+ reach me at eshaanmattoo@gmail.com or eshaan.mattoo@iust.ac.in
 
 <!---
 eshaanmattoo/eshaanmattoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
